@@ -21,9 +21,7 @@
 
 <div align="center">
   
- | Overview |
- |----------|
- | ![Contributions](https://streak-stats.demolab.com?user=Kooky9958&theme=tokyonight) |
+  ![Contributions](https://streak-stats.demolab.com?user=Kooky9958&theme=tokyonight) 
   
 </div>
 
