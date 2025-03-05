@@ -19,29 +19,43 @@
 
   </div>
 
-  <p align="center">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kooky9958&theme=tokyonight" 
-      alt="Profile Details"
-    />
-  </p>
+<div align="center">
+  
+ | Overview |
+ |----------|
+ | ![Contributions](https://streak-stats.demolab.com?user=Kooky9958&theme=tokyonight) |
+  
+</div>
 
-  <p align="center">
+  ---
+  
+<div align="center">
+    
+  |  Monthly Overview |
+  |------------------|
+  | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kooky9958&theme=tokyonight) |
+    
+</div>
 
   ---
 
-  | Overview | In detail |
-  |----------|-----------|
-  | ![Contributions](https://streak-stats.demolab.com?user=Kooky9958&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Kooky9958&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+<div align="center">
+
+  | Language Overview  | In detail |
+  |--------------------|-----------|
+  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Kooky9958&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) | ![Stats](https://github-readme-stats.vercel.app/api?username=Kooky9958&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+
+</div>
+
   ---
 
-  |  Language Overview  | Monthly Overview |
-  |---------------------|------------------|
-  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Kooky9958&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) |![Kooky9958 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kooky9958&theme=vue) |
+  |  Monthly Overview |
+  |------------------|
+  |![Kooky9958 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kooky9958&theme=vue) |
 
   ---
 
-  <div id="language and tools">
+  <div id="language and tools" align="center">
     <a href="https://github.com/Jastin5831">
       <img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=3000&random=false&width=620&lines=Language+  and  + Tools + Which + I + used + to + Developing" alt="Typing SVG" />
     </a>
@@ -164,4 +178,7 @@
     </table>  
   </div>
   <hr>
-  <img src="https://github-profile-trophy.vercel.app/?username=Kooky9958" alt="Kooky9958" />
+
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kooky9958" alt="Kooky9958" />
+  </div>
